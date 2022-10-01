@@ -5,25 +5,21 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Firebase" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eec0ed3-b8e9-47a0-ac60-abb223eec965" name="Default Changelist" comment="" />
+    <list default="true" id="266e0bf3-56aa-4052-a678-66c7c1be213a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_XL_API_30" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
-  </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <projects_view />
-      </state>
-    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,23 +28,17 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1gZpRHSgTyMkgaJZgyzWDFrvuFG" />
+  <component name="ProjectId" id="1lXuxtu3JasIn8b1Qgi7fZDSEBU" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\rishu\AndroidStudioProjects\ButtonResponder\app\src\main\res\drawable-v24" />
-    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -58,13 +48,14 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="app" />
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Android_Study_Jam_Session1.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
       <option name="ARTIFACT_NAME" value="" />
       <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
       <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
       <option name="ACTIVITY_EXTRA_FLAGS" value="" />
       <option name="MODE" value="default_activity" />
@@ -100,11 +91,16 @@
       </Native>
       <Profilers>
         <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
         <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
         <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
@@ -115,22 +111,42 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1eec0ed3-b8e9-47a0-ac60-abb223eec965" name="Default Changelist" comment="" />
-      <created>1598331958781</created>
+      <changelist id="266e0bf3-56aa-4052-a678-66c7c1be213a" name="Default Changelist" comment="" />
+      <created>1607756006535</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1598331958781</updated>
+      <updated>1607756006535</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="349" y="187" key="AndroidCreateResourceFileDialog" timestamp="1598333101120">
+    <state x="93" y="93" width="1350" height="678" key="AVDManager" timestamp="1607948561831">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="349" y="187" key="AndroidCreateResourceFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1598333101120" />
-    <state x="584" y="210" key="chooseDestDirectoryDialog" timestamp="1598333033108">
+    <state x="93" y="93" width="1350" height="678" key="AVDManager/0.0.1536.864@0.0.1536.864" timestamp="1607948561831" />
+    <state x="575" y="199" key="FileChooserDialogImpl" timestamp="1608917213269">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="584" y="210" key="chooseDestDirectoryDialog/0.0.1536.864@0.0.1536.864" timestamp="1598333033108" />
+    <state x="575" y="199" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1608917213269" />
+    <state width="1340" height="165" key="GridCell.Tab.0.bottom" timestamp="1607948804505">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1340" height="165" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1607948804505" />
+    <state width="1340" height="165" key="GridCell.Tab.0.center" timestamp="1607948804504">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1340" height="165" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1607948804504" />
+    <state width="1340" height="165" key="GridCell.Tab.0.left" timestamp="1607948804504">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1340" height="165" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1607948804504" />
+    <state width="1340" height="165" key="GridCell.Tab.0.right" timestamp="1607948804505">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1340" height="165" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1607948804505" />
+    <state x="455" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1608320443606">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="455" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1608320443606" />
   </component>
 </project>
